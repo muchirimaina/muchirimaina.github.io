@@ -34,3 +34,7 @@
 			transform: none;
 			opacity: 1;
 		}
+
+		.webicon{
+			border-radius: 50%;
+		}
